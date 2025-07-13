@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "app/api/chat/route.ts": {
+      "maxDuration": 30
+    }
+  },
+  "env": {
+    "GROQ_API_KEY": "@groq_api_key",
+    "OPENAI_API_KEY": "@openai_api_key",
+    "DEMO_MODE": "true"
+  }
+}
